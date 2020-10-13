@@ -1,0 +1,3 @@
+0 MOUSE
+1 Eraser
+2 Lead
